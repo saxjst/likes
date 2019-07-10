@@ -6,6 +6,7 @@
 - [Node.js & JavaScript Testing Best Practices - Yoni Goldberg - Medium](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347) 
 - [Google Testing Blog: Just Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html) 
 - [Unit vs Integration vs End-to-End Testing ~ SWATT](https://swatt.xyz/unit-vs-integration-vs-end-to-end-testing/) 
+- [Understanding software testing - Alex Bachuk - Medium](https://medium.com/@netxm/how-to-get-started-with-software-testing-9fa1ce4f2a64) 
 ### July 9, 2019 
 - [Anjana Vakil — Functional Programming in JS: What? Why? How? - YouTube](https://www.youtube.com/watch?v=qtsbZarFzm8) 
 - [Series of posts about functional programming called Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/) 
