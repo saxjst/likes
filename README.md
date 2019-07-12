@@ -2,6 +2,9 @@
 > Interesting content found on the web about programming
 
 
+
+### July 12, 2019 
+- [JavaScript Testing: Unit vs Functional vs Integration Tests — SitePoint](https://www.sitepoint.com/javascript-testing-unit-functional-integration/) 
 ### July 10, 2019 
 - [Node.js & JavaScript Testing Best Practices - Yoni Goldberg - Medium](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347) 
 - [Google Testing Blog: Just Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html) 
