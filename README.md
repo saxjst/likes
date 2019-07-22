@@ -6,6 +6,7 @@
 
 ### July 22, 2019 
 - [TDD Changed My Life - JavaScript Scene - Medium](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) 
+- [JavaScript Monads Made Simple - JavaScript Scene - Medium](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8) 
 ### July 12, 2019 
 - [JavaScript Testing: Unit vs Functional vs Integration Tests — SitePoint](https://www.sitepoint.com/javascript-testing-unit-functional-integration/) 
 ### July 10, 2019 
