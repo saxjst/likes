@@ -4,6 +4,9 @@
 
 
 
+
+### August 2, 2019 
+- [How to Test Your Frontend with the Cypress.io Framework](https://medium.com/free-code-camp/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330) 
 ### July 22, 2019 
 - [TDD Changed My Life - JavaScript Scene - Medium](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) 
 - [JavaScript Monads Made Simple - JavaScript Scene - Medium](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8) 
