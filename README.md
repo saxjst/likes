@@ -8,6 +8,7 @@
 
 ### August 9, 2019 
 - [5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d) 
+- [How to test Express.js with Jest and Supertest | Through the binary](http://www.albertgao.xyz/2017/05/24/how-to-test-expressjs-with-jest-and-supertest/) 
 ### August 2, 2019 
 - [How to Test Your Frontend with the Cypress.io Framework](https://medium.com/free-code-camp/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330) 
 ### July 22, 2019 
