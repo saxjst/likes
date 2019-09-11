@@ -7,6 +7,9 @@
 
 
 
+
+### September 11, 2019 
+- [Implementing Memoization in Javascript - Arielle Gordon - Medium](https://medium.com/@reallygordon/implementing-memoization-in-javascript-5d140bb04166) 
 ### August 20, 2019 
 - [⚙️ Integration Tests on Node.js CLI: Part 3 – Inter Process Communication](https://medium.com/@zorrodg/%EF%B8%8F-integration-tests-on-node-js-cli-part-3-inter-process-communication-acc9f9aa9e85) 
 - [⚙️ Integration Tests on Node.js CLI: Part 4 — Mocking Services](https://medium.com/@zorrodg/%EF%B8%8F-integration-tests-on-node-js-cli-part-4-mocking-services-b6fba2d9d01b) 
