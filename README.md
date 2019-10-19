@@ -11,6 +11,7 @@
 
 ### October 19, 2019 
 - [Design Patterns](https://refactoring.guru/design-patterns/catalog) 
+- [Refactoring - refactoring guru](https://refactoring.guru/refactoring/catalog) 
 ### September 11, 2019 
 - [Implementing Memoization in Javascript - Arielle Gordon - Medium](https://medium.com/@reallygordon/implementing-memoization-in-javascript-5d140bb04166) 
 ### August 20, 2019 
