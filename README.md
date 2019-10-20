@@ -12,6 +12,7 @@
 
 ### October 21, 2019 
 - [A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921) 
+- [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a) 
 ### October 19, 2019 
 - [Design Patterns](https://refactoring.guru/design-patterns/catalog) 
 - [Refactoring - refactoring guru](https://refactoring.guru/refactoring/catalog) 
