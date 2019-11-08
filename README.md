@@ -11,6 +11,9 @@
 
 
 
+
+### November 8, 2019 
+- [Hype Driven Development - Daftcode Blog](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22) 
 ### November 7, 2019 
 - [MicroservicePrerequisites - martinfowler.com](https://martinfowler.com/bliki/MicroservicePrerequisites.html) 
 - [ContinuousDelivery - martinfowler.com](https://martinfowler.com/bliki/ContinuousDelivery.html) 
