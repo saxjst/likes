@@ -12,6 +12,9 @@
 
 
 
+
+### December 5, 2019 
+- [Problèmes rencontrés en microservice Configuration, authentification... (Quentin Adam) - YouTube](https://www.youtube.com/watch?v=mvKeCsxGZhE) 
 ### November 8, 2019 
 - [Hype Driven Development - Daftcode Blog](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22) 
 ### November 7, 2019 
