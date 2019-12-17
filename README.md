@@ -13,6 +13,9 @@
 
 
 
+
+### December 17, 2019 
+- [100% Stateless avec JWT (JSON Web Token) (Hubert SABLONNIÈRE) - YouTube](https://www.youtube.com/watch?v=A2-YImhNVMU) 
 ### December 5, 2019 
 - [Problèmes rencontrés en microservice Configuration, authentification... (Quentin Adam) - YouTube](https://www.youtube.com/watch?v=mvKeCsxGZhE) 
 ### November 8, 2019 
