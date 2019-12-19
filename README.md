@@ -14,6 +14,9 @@
 
 
 
+
+### December 19, 2019 
+- [TestPyramid - martinfowler.com](https://martinfowler.com/bliki/TestPyramid.html) 
 ### December 17, 2019 
 - [100% Stateless avec JWT (JSON Web Token) (Hubert SABLONNIÈRE) - YouTube](https://www.youtube.com/watch?v=A2-YImhNVMU) 
 ### December 5, 2019 
