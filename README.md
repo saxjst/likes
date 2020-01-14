@@ -15,6 +15,9 @@
 
 
 
+
+### January 14, 2020 
+- [Agile Team Organisation: Squads, Chapters, Tribes and Guilds](https://medium.com/@achardypm/agile-team-organisation-squads-chapters-tribes-and-guilds-80932ace0fdc) 
 ### December 19, 2019 
 - [TestPyramid - martinfowler.com](https://martinfowler.com/bliki/TestPyramid.html) 
 ### December 17, 2019 
