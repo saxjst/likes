@@ -16,6 +16,9 @@
 
 
 
+
+### January 16, 2020 
+- [Test Flakiness – Methods for identifying and dealing with flaky tests | Labs](https://labs.spotify.com/2019/11/18/test-flakiness-methods-for-identifying-and-dealing-with-flaky-tests/) 
 ### January 14, 2020 
 - [Agile Team Organisation: Squads, Chapters, Tribes and Guilds](https://medium.com/@achardypm/agile-team-organisation-squads-chapters-tribes-and-guilds-80932ace0fdc) 
 ### December 19, 2019 
